@@ -1,0 +1,10 @@
+C:\Gitkraken\fileSearch\FileSearch\bin\Debug\net472\FileSearch.exe.config
+C:\Gitkraken\fileSearch\FileSearch\bin\Debug\net472\FileSearch.exe
+C:\Gitkraken\fileSearch\FileSearch\bin\Debug\net472\FileSearch.pdb
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.csprojAssemblyReference.cache
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.AssemblyInfoInputs.cache
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.AssemblyInfo.cs
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.csproj.CoreCompileInputs.cache
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.exe
+C:\Gitkraken\fileSearch\FileSearch\obj\Debug\net472\FileSearch.pdb
+C:\Gitkraken\fileSearch\FileSearch\bin\Debug\net472\Ftp.wav
